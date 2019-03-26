@@ -12,3 +12,4 @@ Or python 2
 ```bash
 sudo pip install adafruit-circuitpython-charlcd
 ```
+![alt text](https://pedaljams.uk/image/lcd.jpg "16x2 LCD DISPLAY")
